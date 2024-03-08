@@ -1,8 +1,2 @@
-This is the demo of How to use Git command in Git Bash
-This demo will help you to know about commands:
-git init
-git add
-git status 
-git commit
-git log
-git push
+This is the demo to understand git command in gitbash by Manthan
+
